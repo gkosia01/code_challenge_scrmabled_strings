@@ -1,7 +1,7 @@
 # code_challenge_scrmabled_strings
 The repository contains the solution for code challenge ["scrambled string"](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edf/0000000000051004) using python.
 
-Use the Docker file to build and run the projec.
+Use the Docker file to build and run the project.
 
 In Demo_files folder there are Dictionary files that are not valid based on the following rules:
 1. Dictionary words cannot be duplicated
