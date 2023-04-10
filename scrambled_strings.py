@@ -96,7 +96,7 @@ def get_frequency_array(word):
     words_properties_dict: a dictionary of the words and its properties (first_letter, last_letter, word_length,frequency_array)
     input_string: a string form input file
 
-    reutrn: the number of words appeared in their original or scrabled format in the input string
+    reutrn: the number of words appeared in their original or scrambled format in the input string
 '''
 def count_words_in_string(words_properties_dict, input_string):
 
